@@ -2,10 +2,10 @@
 # number in a list 
 
 # list of numbers 
-list1 = [1, 1, -4] 
+list1 = [3, 4, 5] 
 
 # sorting the list 
 list1.sort() 
 
 # printing the last element 
-print(1)
+print(5)
